@@ -1,0 +1,21 @@
+# =============================================================================
+# Harbour hbmk2 Project File
+# Program       : Snake Harbour - Terminal OOP Edition
+# Author        : Marcos Jarrín - BadaSystem
+# Date          : 28/09/2026
+# Description   : Build script for pure console application.
+# =============================================================================
+
+# --- Output Configuration ---
+-osnaketerminal
+
+# --- Source Files ---
+main.prg
+snake_game.prg
+snake.prg
+food.prg
+screen.prg
+coordinate.prg
+
+# --- Compiler Options ---
+-w3
