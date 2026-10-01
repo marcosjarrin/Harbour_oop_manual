@@ -1,11 +1,10 @@
+# xBase Harbour Minigui Extended
 *.obj
-*.c
 *.ppo
 *.mpm
 *.exe
 *.dbf
 *.fpt
 *.cdx
-*.zip
-*.rar
+*.ntx
 obj/
